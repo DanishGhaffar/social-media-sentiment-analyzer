@@ -205,9 +205,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Your Name** - [danishghaffar133@gmail.com](mailto:danishghaffar133@gmail.com)
 
-Project Link: [https://github.com/yourusername/social-media-sentiment-analyzer](https://github.com/yourusername/social-media-sentiment-analyzer)
+Project Link: [https://github.com/DanishGhaffar/social-media-sentiment-analyzer](https://github.com/DanishGhaffar/social-media-sentiment-analyzer)
 
 ---
 
